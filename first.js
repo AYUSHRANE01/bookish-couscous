@@ -8,3 +8,9 @@ console.log(login);
 
 const footer = "Footer Added";
 console.log(footer);
+
+const payment ="Integrated The Payment Gateway";
+console.log(payment);
+
+
+console.log("Latest Update");
