@@ -14,3 +14,6 @@ console.log(payment);
 
 
 console.log("Latest Update");
+
+// I am Fixing Some Bungs
+console.log("Bug Fixed");
